@@ -21,7 +21,7 @@
     -webkit-box-shadow: inset hoff voff blur color;
     -moz-box-shadow: inset hoff voff blur color;
     box-shadow: inset hoff voff blur color;
-    transition: 0.10s ease all;
+    transition: 0.15s ease all;
 }
 .big-radios [type="radio"]:checked + span::before {
     background: rgb(59,153,252);
